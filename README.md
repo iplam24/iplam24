@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @iplam24
+- 👋 Hi, I’m Vu Xuan Lam
+- I'm from Viet Nam
 
 <!---
 iplam24/iplam24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
