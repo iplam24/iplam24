@@ -14,7 +14,8 @@
     </p>
         </p>
          <img src="myimg.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;">
-            <IT FROM <a href="https://vnua.edu.vn/">VNUA </a>
+            <br>
+            <p>IT FROM <a href="https://vnua.edu.vn/">VNUA</a></p>
         <br><br><br>
          <h3 align="left">Connect :</h3>
         <p align="left">
