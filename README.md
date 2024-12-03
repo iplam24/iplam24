@@ -1,3 +1,4 @@
+<body style="background-color:pistel;">
 <div style="font-family: 'Arial', sans-serif; text-align: center; background: linear-gradient(120deg, #1e1e2e, #3a3a52); color: white; padding: 30px; border-radius: 15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5);">
     <h1 style="color: #ff4d4d; font-size: 3.5rem; text-shadow: 0px 0px 10px #ff4d4d, 0px 0px 20px #ff4d4d; animation: pulse 1.5s infinite;">
         Welcome to Lâm's GitHub 👑
@@ -43,3 +44,4 @@
         Designed by <b style="color: #fff;">Lâm đẹp trai</b> 💖
     </footer>
 </div>
+</body>
