@@ -16,25 +16,28 @@
         <p style="font-size: 1rem; margin: 15px 0; color: #d1d1e9;">
            ~ Đừng quên ghé thăm profile để xem các dự án thú vị nha ~ Mãi yêu! 🥰
     </p>
-        <div style="margin-bottom: 30px;">
-            <a href="https://github.com/iplam2004" 
-               style="display: inline-block; padding: 12px 25px; font-size: 1.2rem; color: white; background: #6c63ff; 
-                      text-decoration: none; border-radius: 50px; margin: 10px; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3); 
-                      transition: transform 0.3s ease, box-shadow 0.3s ease;" 
-               onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0px 10px 20px rgba(0, 0, 0, 0.4)';"
-               onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 5px 10px rgba(0, 0, 0, 0.3)';">
-                Check Out My GitHub 🚀
-            </a>
-            <br>
-            <a href="https://www.facebook.com/iam.Iam143" 
-               style="display: inline-block; padding: 12px 25px; font-size: 1.2rem; color: white; background: #4267B2; 
-                      text-decoration: none; border-radius: 50px; margin: 10px; box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3); 
-                      transition: transform 0.3s ease, box-shadow 0.3s ease;" 
-               onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0px 10px 20px rgba(0, 0, 0, 0.4)';"
-               onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 5px 10px rgba(0, 0, 0, 0.3)';">
-                Facebook 📘
-            </a>
-        </div>
+         <h3 align="left">Connect :</h3>
+        <p align="left">
+          <a href="https://www.facebook.com/iam.Iam143" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="cplusplus" width="40" height="40"/>
+          </a>
+          <a href="https://www.java.com" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+          </a>
+          <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+          </a>
+          <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
+          </a>
+            <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+          </a>
+           </a>
+            <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" width="40" height="40"/>
+          </a> 
+        </p>
          <img src="myimg.jpg" style="width: 500px; border-radius: 15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);">
         <h3 align="left">Languages:</h3>
         <p align="left">
