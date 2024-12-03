@@ -57,12 +57,12 @@
 
 
        
-        <p style="font-size: 1.1rem; margin: 20px 0; color: #f2f2f2; font-weight: bold;">
+        <p>
             Mỗi dòng code là một bước tiến, mỗi lỗi là một bài học! 🚀
         </p>
-        <footer style="margin-top: 20px; font-size: 0.9rem; color: #aaa;">
-            Designed by <b style="color: #fff;">ღ(¯`◕‿◕´¯) ♫ ♪ ♫ⓋⓊ ⓍⓊⒶⓃ ⓁⒶⓂ♫ ♪ ♫ (¯`◕‿◕´¯)ღ</b> 💖
-        </footer>
+        
+        <p>    Designed by <b style="color: #fff;">ღ(¯`◕‿◕´¯) ♫ ♪ ♫ⓋⓊ ⓍⓊⒶⓃ ⓁⒶⓂ♫ ♪ ♫ (¯`◕‿◕´¯)ღ</b> 💖
+        </p>
     </div>
     
 </body>
