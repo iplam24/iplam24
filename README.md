@@ -19,9 +19,7 @@
             Facebook 📘
         </a>
     </div>
-   <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/441020450_981289430128304_8791646841219850073_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH5OTFk5tQrP-5U41Qjm3GM6t_7A2ew2Vbq3_sDZ7DZVjyjrSnTTEyecHqHE2FbbYn8CkPzMiKuvv3_ajLDancs&_nc_ohc=s-yGGLXq4JUQ7kNvgF2Z2dL&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&_nc_gid=AGBG_xemmaiz9rHl_lqL5vA&oh=00_AYDzlefPcC2peLP-tkAqGamByoMqBBQHldPhOdFE2GeEAA&oe=6754FABA"
-     style="width: 100%; max-width: 500px; border-radius: 15px; box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out; margin-bottom: 20px;" 
-     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+   
 
     <pre style="text-align: left; margin: 20px auto; padding: 15px; background-color: #2b2b36; color: #00ff99; 
                 border: 2px solid #444; border-radius: 10px; font-size: 0.95rem; overflow-x: auto; width: 90%; max-width: 700px;">
