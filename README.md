@@ -35,6 +35,7 @@
                 Facebook 📘
             </a>
         </div>
+         <img src="myimg.jpg" style="width: 500px; border-radius: 15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);">
         <h3 align="left">Languages:</h3>
         <p align="left">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -49,8 +50,14 @@
           <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
           </a>
+            <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+          </a>
+           </a>
+            <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" width="40" height="40"/>
+          </a> 
         </p>
-        <img src="myimg.jpg" style="width: 500px; border-radius: 15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);">
         <pre style="text-align: left; margin: 20px auto; padding: 15px; background-color: #2b2b36; color: #00ff99; 
                     border: 2px solid #444; border-radius: 10px; font-size: 0.95rem; overflow-x: auto; width: 90%; 
                     max-width: 700px; animation: slideUp 1.5s;">
