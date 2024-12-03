@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 style="color:red">Welcome to Lâm's GitHub 👑</h1>
+        <h1 style="color:red;">Welcome to Lâm's GitHub 👑</h1>
         <p>Tôi là Lâm đẹp trai, đây là nơi thể hiện sự ngầu điên của tôi! ✨</p>
         <a href="https://github.com/iplam2004 class="btn">Check Out My GitHub 🚀</a>
     </div>
