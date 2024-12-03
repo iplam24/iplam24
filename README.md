@@ -8,7 +8,7 @@
         </h1>
         <p style="font-size: 1.3rem; line-height: 1.8; margin-bottom: 30px; background-color: rgba(255, 255, 255, 0.1); 
                   padding: 15px; border-radius: 10px; animation: slideIn 1.5s;">
-           Hiii!👋. I'AM 亗 ＶＵㅤＸＵＡＮㅤＬＡＭ   모🐤. I'm from VietNam 🇻🇳✨
+           Hiii!👋. I'am 亗 ＶＵㅤＸＵＡＮㅤＬＡＭ   모🐤. I'm from VietNam 🇻🇳✨
         </p>
         <p style="font-size: 1.1rem; margin: 15px 0; color: #f2f2f2; font-style: italic;">
             "Code không chỉ là công việc, mà còn là tình yêu của mình đó~ 💖"  
@@ -54,11 +54,12 @@
           ~~~~~  ""  ""  ""                  /
                                             --'
         </pre>
+        <p>(¯`·.¸¸.·´¯`·.¸¸.->vũ xüân lâm<-.¸¸.·´¯`·.¸¸.·´¯)</p>
         <p style="font-size: 1.1rem; margin: 20px 0; color: #f2f2f2; font-weight: bold;">
             Mỗi dòng code là một bước tiến, mỗi lỗi là một bài học! 🚀
         </p>
         <footer style="margin-top: 20px; font-size: 0.9rem; color: #aaa;">
-            Designed by <b style="color: #fff;">Lâm đẹp trai</b> 💖
+            Designed by <b style="color: #fff;">ღ(¯`◕‿◕´¯) ♫ ♪ ♫ⓋⓊ ⓍⓊⒶⓃ ⓁⒶⓂ♫ ♪ ♫ (¯`◕‿◕´¯)ღ</b> 💖
         </footer>
     </div>
     
