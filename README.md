@@ -16,6 +16,8 @@
         <p style="font-size: 1rem; margin: 15px 0; color: #d1d1e9;">
            ~ Đừng quên ghé thăm profile để xem các dự án thú vị nha ~ Mãi yêu! 🥰
     </p>
+        </p>
+         <img src="myimg.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;">
          <h3 align="left">Connect :</h3>
         <p align="left">
           <a href="https://www.facebook.com/iam.Iam143" target="_blank" rel="noreferrer">
@@ -27,8 +29,6 @@
           <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ASP.NET" width="40" height="40"/>
           </a>
-        </p>
-         <img src="myimg.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;">
         <h3 align="left">Languages:</h3>
         <p align="left">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
