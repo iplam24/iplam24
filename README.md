@@ -4,7 +4,7 @@
                 box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); animation: fadeIn 1.5s;">
         <h1 style="color: #ff4d4d; font-size: 3.5rem; text-shadow: 0px 0px 10px #ff4d4d, 0px 0px 20px #ff4d4d; 
                    animation: pulse 1.5s infinite;">
-            Welcome to Lâm's GitHub 👑
+            ~ ~ ~ Xin chào đây là trang GitHub của mìnhh ~ ~ ~👑
         </h1>
         <p style="font-size: 1.3rem; line-height: 1.8; margin-bottom: 30px; background-color: rgba(255, 255, 255, 0.1); 
                   padding: 15px; border-radius: 10px; animation: slideIn 1.5s;">
