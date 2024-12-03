@@ -15,8 +15,7 @@
         </p>
         <p style="font-size: 1rem; margin: 15px 0; color: #d1d1e9;">
            ~ Đừng quên ghé thăm profile để xem các dự án thú vị nha ~ Mãi yêu! 🥰
-        </p>
-        
+    </p>
         <div style="margin-bottom: 30px;">
             <a href="https://github.com/iplam2004" 
                style="display: inline-block; padding: 12px 25px; font-size: 1.2rem; color: white; background: #6c63ff; 
