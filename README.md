@@ -11,10 +11,10 @@
            Hiii!👋. I'am 亗 ＶＵㅤＸＵＡＮㅤＬＡＭ   모🐤. I'm from VietNam 🇻🇳✨
         </p>
         <p style="font-size: 1.1rem; margin: 15px 0; color: #f2f2f2; font-style: italic;">
-            "Code không chỉ là công việc, mà còn là tình yêu của mình đó~ 💖"  
+            "~Code không chỉ là công việc, mà còn là tình yêu của mình đó~ 💖"  
         </p>
         <p style="font-size: 1rem; margin: 15px 0; color: #d1d1e9;">
-            Đừng quên ghé thăm profile để xem các dự án thú vị nha~ Mãi yêu! 🥰
+           ~ Đừng quên ghé thăm profile để xem các dự án thú vị nha ~ Mãi yêu! 🥰
         </p>
         <div style="margin-bottom: 30px;">
             <a href="https://github.com/iplam2004" 
@@ -54,7 +54,7 @@
           ~~~~~  ""  ""  ""                  /
                                             --'
         </pre>
-        <p>(¯`·.¸¸.·´¯`·.¸¸.->vũ xüân lâm<-.¸¸.·´¯`·.¸¸.·´¯)</p>
+       
         <p style="font-size: 1.1rem; margin: 20px 0; color: #f2f2f2; font-weight: bold;">
             Mỗi dòng code là một bước tiến, mỗi lỗi là một bài học! 🚀
         </p>
