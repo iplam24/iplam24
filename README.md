@@ -28,7 +28,7 @@
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ASP.NET" width="40" height="40"/>
           </a>
         </p>
-         <img src="myimg.jpg" style="width: 500px; border-radius: 15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);">
+         <img src="myimg.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;">
         <h3 align="left">Languages:</h3>
         <p align="left">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
