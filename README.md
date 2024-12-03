@@ -3,7 +3,7 @@
         Welcome to Lâm's GitHub 👑
     </h1>
     <p style="font-size: 1.3rem; line-height: 1.8; margin-bottom: 30px; background-color: rgba(255, 255, 255, 0.1); padding: 15px; border-radius: 10px;">
-        I'am Vu Xuan Lam. I'm from VietNam 🇻🇳✨
+       Hiii!👋. I'am Vu Xuan Lam🐤. I'm from VietNam 🇻🇳✨
     </p>
     <div style="margin-bottom: 30px;">
         <a href="https://github.com/iplam2004" 
