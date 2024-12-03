@@ -22,13 +22,13 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="cplusplus" width="40" height="40"/>
           </a>
           <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="java" width="40" height="40"/>
           </a>
           <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="C#" width="40" height="40"/>
           </a>
           <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" alt="ASP.NET" width="40" height="40"/>
           </a>
             <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
