@@ -25,13 +25,13 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="java" width="40" height="40"/>
           </a>
           <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="C#" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="C#" width="40" height="40"/>
           </a>
           <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" alt="ASP.NET" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Reddit.svg" alt="ASP.NET" width="40" height="40"/>
           </a>
             <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Discord_icon.svg" alt="HTML" width="40" height="40"/>
           </a>
            </a>
             <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
