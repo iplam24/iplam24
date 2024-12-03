@@ -14,16 +14,17 @@
     </p>
         </p>
          <img src="myimg.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;">
+            <p>IT FROM VNUA<a href="vnua.edu.vn"><img src="https://banner2.cleanpng.com/20190304/tkq/kisspng-vnua-logo-business-administration-brand-university-trang-ch-vcms-trung-tm-cung-ng-ngun-n-1713903363537.webp"width="40" height="40></a></p>
          <h3 align="left">Connect :</h3>
         <p align="left">
           <a href="https://www.facebook.com/iam.Iam143" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cplusplus" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  width="40" height="40"/>
           </a>
           <a href="https://discord.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="java" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  width="40" height="40"/>
           </a>
           <a href="https://www.instagram.com/lma_04_v/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ASP.NET" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"/>
           </a>
         <h3 align="left">Languages:</h3>
         <p align="left">
