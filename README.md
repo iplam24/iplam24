@@ -19,10 +19,10 @@
           <a href="https://www.facebook.com/iam.Iam143" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cplusplus" width="40" height="40"/>
           </a>
-          <a href="https://www.java.com" target="_blank" rel="noreferrer">
+          <a href="https://discord.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="java" width="40" height="40"/>
           </a>
-          <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
+          <a href="https://www.instagram.com/lma_04_v/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ASP.NET" width="40" height="40"/>
           </a>
         <h3 align="left">Languages:</h3>
