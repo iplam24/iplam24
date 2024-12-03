@@ -16,18 +16,7 @@
         <p style="font-size: 1rem; margin: 15px 0; color: #d1d1e9;">
            ~ Đừng quên ghé thăm profile để xem các dự án thú vị nha ~ Mãi yêu! 🥰
         </p>
-        <h3 align="left">Languages:</h3>
-        <p align="left">
-          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-          </a>
-          <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-          </a>
-        </p>
+        
         <div style="margin-bottom: 30px;">
             <a href="https://github.com/iplam2004" 
                style="display: inline-block; padding: 12px 25px; font-size: 1.2rem; color: white; background: #6c63ff; 
@@ -47,6 +36,21 @@
                 Facebook 📘
             </a>
         </div>
+        <h3 align="left">Languages:</h3>
+        <p align="left">
+          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+          </a>
+          <a href="https://www.java.com" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+          </a>
+          <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+          </a>
+          <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
+          </a>
+        </p>
         <img src="myimg.jpg" style="width: 500px; border-radius: 15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);">
         <pre style="text-align: left; margin: 20px auto; padding: 15px; background-color: #2b2b36; color: #00ff99; 
                     border: 2px solid #444; border-radius: 10px; font-size: 0.95rem; overflow-x: auto; width: 90%; 
