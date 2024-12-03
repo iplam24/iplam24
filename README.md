@@ -28,15 +28,8 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="C#" width="40" height="40"/>
           </a>
           <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Reddit.svg" alt="ASP.NET" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ASP.NET" width="40" height="40"/>
           </a>
-            <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Discord_icon.svg" alt="HTML" width="40" height="40"/>
-          </a>
-           </a>
-            <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" width="40" height="40"/>
-          </a> 
         </p>
          <img src="myimg.jpg" style="width: 500px; border-radius: 15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);">
         <h3 align="left">Languages:</h3>
