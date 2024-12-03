@@ -8,7 +8,7 @@
         </h1>
         <p style="font-size: 1.3rem; line-height: 1.8; margin-bottom: 30px; background-color: rgba(255, 255, 255, 0.1); 
                   padding: 15px; border-radius: 10px; animation: slideIn 1.5s;">
-           Hiii!👋. I'am Vu Xuan Lam🐤. I'm from VietNam 🇻🇳✨
+           Hiii!👋. I'AM 亗 ＶＵㅤＸＵＡＮㅤＬＡＭ   모🐤. I'm from VietNam 🇻🇳✨
         </p>
         <p style="font-size: 1.1rem; margin: 15px 0; color: #f2f2f2; font-style: italic;">
             "Code không chỉ là công việc, mà còn là tình yêu của mình đó~ 💖"  
