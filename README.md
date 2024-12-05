@@ -7,10 +7,10 @@
            Hiii!👋. I'am 亗 ＶＵㅤＸＵＡＮㅤＬＡＭ   모🐤. I'm from VietNam 🇻🇳✨
         </p>
         <pstyle="color: #ff4d4d; font-size: 3.5rem;text-align:center;">
-            "~Code không chỉ là công việc, mà còn là tình yêu của mình đó~ 💖"  
+            "~~ 💖 ~~"  
         </p>
         <p style="color: #ff4d4d; font-size: 3.5rem;text-align:center;">
-           ~ Đừng quên ghé thăm profile để xem các dự án thú vị nha ~ Mãi yêu! 🥰
+           ~ 🥰 ~
     </p>
         </p>
          <img src="myimg.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;">
