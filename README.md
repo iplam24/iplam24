@@ -15,8 +15,8 @@
         </p>
          <img src="myimg.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;">
             <br>
-            <p>----IT FROM <a href="https://vnua.edu.vn/">VNUA</a></p>
-            <P>----Connect with me:<a href="mailto:vxlcontact143@gmail.com" style="text-decoration: none">vxlcontact143@gmail.com</a></P>
+            <p>--- IT FROM ---<a href="https://vnua.edu.vn/">VNUA</a></p>
+            <P>--- Connect with me: ---<a href="mailto:vxlcontact143@gmail.com" style="text-decoration: none">vxlcontact143@gmail.com</a></P>
         <br>
          <h3 align="left">Connect :</h3>
         <p align="left">
