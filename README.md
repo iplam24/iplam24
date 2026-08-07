@@ -1,78 +1,81 @@
-<body style="background-color: #d8f3dc; font-family: 'Arial', sans-serif;">
-    <div style="text-align: center;">
-        <h1 style="color: #ff4d4d; font-size: 3.5rem;text-align:center;">
-            ~ ~ ~ Xin chào đây là trang GitHub của mìnhh ~ ~ ~👑
-        </h1>
-        <p style="color: #ff4d4d; font-size: 3.5rem;text-align:center;">
-           Hiii!👋. I'am 亗 ＶＵㅤＸＵＡＮㅤＬＡＭ   모🐤. I'm from VietNam 🇻🇳✨
-        </p>
-        <pstyle="color: #ff4d4d; font-size: 3.5rem;text-align:center;">
-            "~~ 💖 ~~"  
-        </p>
-        <p style="color: #ff4d4d; font-size: 3.5rem;text-align:center;">
-           ~ 🥰 ~
-    </p>
-        </p>
-         <img src="myimg.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;">
-            <br>
-            <p>--- IT FROM ---<a href="https://vnua.edu.vn/">VNUA</a></p>
-            <P>--- Connect with me: ---<a href="mailto:vxlcontact143@gmail.com" style="text-decoration: none">vxlcontact143@gmail.com</a></P>
-        <br>
-         <h3 align="left">Connect :</h3>
-        <p align="left">
-          <a href="https://www.facebook.com/iam.Iam143" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  width="40" height="40"/>
-          </a>
-          <a href="https://discord.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  width="40" height="40"/>
-          </a>
-          <a href="https://www.instagram.com/lma_04_v/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"/>
-          </a>
-        <h3 align="left">Languages:</h3>
-        <p align="left">
-          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-          </a>
-          <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-          </a>
-          <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-          </a>
-          <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
-          </a>
-            <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-          </a>
-           </a>
-            <a href="https://learn.microsoft.com/vi-vn/dotnet/csharp/programming-guide/concepts/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" width="40" height="40"/>
-          </a> 
-        </p>
-        <pre style="text-align: left; margin: 20px auto; padding: 15px; background-color: #2b2b36; color: #00ff99; 
-                    border: 2px solid #444; border-radius: 10px; font-size: 0.95rem; overflow-x: auto; width: 90%; 
-                    max-width: 700px; animation: slideUp 1.5s;">
-                   _,-^-.
-          ________/ o)  o-._
-         /~~~~~~| |---v---|| \
-        |       ||         ||   -.
-         \_____/ |_________||      -._
-          ||||               \         -._
-          ||||                \            \__
-          ||||                 |              \
-          ||||                 |                \
-          ||||                 |                 |
-         /||||_________________|                 |
-        /_|||||-( )||( )||( )||-.__________.--'/
-          ~~~~~  ""  ""  ""                  /
-                                            --'
-            Mỗi dòng code là một bước tiến, mỗi lỗi là một bài học! 🚀
-            Designed by <b style="color: #fff;">ღ(¯`◕‿◕´¯) ♫ ♪ ♫ⓋⓊ ⓍⓊⒶⓃ ⓁⒶⓂ♫ ♪ ♫ (¯`◕‿◕´¯)ღ</b> 💖
-        </pre>
+<div align="center">
+
+👑 Xin chào, chào mừng bạn đến với GitHub của mình!
+
+Hi there! I'm Vũ Xuân Lâm 👋
+
+Mình là Vũ Xuân Lâm, đến từ Việt Nam 🇻🇳Mình yêu thích việc học hỏi công nghệ mới và biến những ý tưởng thú vị thành sản phẩm thực tế.
+
+<br>
+
+<img src="./myimg.jpg" alt="Ảnh đại diện của Vũ Xuân Lâm" width="320">
+
+<br><br>
 
 
-       
-        
-          
+
+</div>
+
+🌱 Giới thiệu
+
+🎓 Mình đang học tập tại Học viện Nông nghiệp Việt Nam (VNUA).
+
+💻 Mình quan tâm đến phát triển phần mềm và các công nghệ web.
+
+📚 Mình luôn sẵn sàng học hỏi, thử nghiệm và hoàn thiện bản thân qua từng dự án.
+
+💬 Bạn có thể trao đổi với mình về C++, Java, C#, .NET, HTML và CSS.
+
+⚡ Phương châm: Mỗi dòng code là một bước tiến, mỗi lỗi là một bài học.
+
+🤝 Kết nối với mình
+
+<p align="left">
+  <a href="https://www.facebook.com/iam.Iam143" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook của Vũ Xuân Lâm" width="42" height="42">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/lma_04_v/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram của Vũ Xuân Lâm" width="42" height="42">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vxlcontact143@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email cho Vũ Xuân Lâm" width="42" height="42">
+  </a>
+</p>
+
+🛠️ Công nghệ mình sử dụng
+
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="46" height="46">
+  </a>
+  &nbsp;
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="46" height="46">
+  </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="46" height="46">
+  </a>
+  &nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="46" height="46">
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="46" height="46">
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="46" height="46">
+  </a>
+</p>
+
+<div align="center">
+
+🚀 Mỗi dòng code là một bước tiến, mỗi lỗi là một bài học!
+
+Made with 💖 by Vũ Xuân Lâm
+
+</div>
