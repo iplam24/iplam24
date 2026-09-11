@@ -2,60 +2,218 @@
 
 # Vũ Xuân Lâm
 
-**Software Developer · Vietnam 🇻🇳**
+### Software Developer · Backend · Web · Systems
 
-Developing software, exploring new technologies, and building things that are actually useful.
+Vietnam 🇻🇳
 
-<img src="./myimg.jpg" alt="Vũ Xuân Lâm" width="280">
+<br>
+
+<img src="./myimg.jpg" alt="Vũ Xuân Lâm" width="260" style="border-radius: 50%;">
+
+<br><br>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="mailto:vxlcontact143@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.facebook.com/iam.Iam143">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+<a href="https://www.instagram.com/lma_04_v/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<br><br>
+
+> Building software, experimenting with technology, and turning ideas into working systems.
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About
 
-* 🎓 Student at **Vietnam National University of Agriculture (VNUA)**
-* 💻 Interested in **Software Development, Web Development & Backend Systems**
-* 🔧 Currently working with **C++, Java, C#, .NET, HTML & CSS**
-* 🚀 Interested in building applications, APIs, automation tools and self-hosted systems
-* 📚 Always learning, experimenting and improving through real-world projects
+I'm **Vũ Xuân Lâm**, a software developer from Vietnam and a student at **Vietnam National University of Agriculture (VNUA)**.
 
-## Tech Stack
+My main interests are **backend development, web applications, APIs, databases, system administration and self-hosted infrastructure**.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" title="C++">
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java">
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" title="C#">
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" title=".NET">
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5">
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3">
+I enjoy going beyond simply writing code — understanding how systems work, deploying them, connecting different components together, and turning an idea into something people can actually use.
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Vũ Xuân Lâm                                               │
+│                                                             │
+│   Software Developer                                        │
+│                                                             │
+│   Backend        ███████████████████░░░                     │
+│   Web            █████████████████░░░░                     │
+│   Systems        ████████████████░░░░░                     │
+│   Problem Solving██████████████████░░░                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ⚡ What I Do
+
+| Area            | Focus                                     |
+| --------------- | ----------------------------------------- |
+| Backend         | APIs, services, business logic            |
+| Web             | Modern web applications                   |
+| Database        | SQL, data modeling & optimization         |
+| Systems         | Linux, servers, networking & deployment   |
+| Automation      | Scripts, tools & developer workflows      |
+| Experimentation | New technologies and interesting projects |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs,ts,js" />
 </p>
 
-## Connect
+### Backend & Frameworks
 
-<p align="left">
-  <a href="https://www.facebook.com/iam.Iam143" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36" height="36" alt="Facebook">
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/lma_04_v/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" height="36" alt="Instagram">
-  </a>
-  &nbsp;
-  <a href="mailto:vxlcontact143@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="36" height="36" alt="Email">
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,spring" />
+</p>
+
+### Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,linux,nginx,docker,git,github" />
+</p>
+
+---
+
+## 🚀 Projects
+
+A few things I'm interested in building:
+
+```text
+┌──────────────────────┬──────────────────────────────────────┐
+│ Backend Systems      │ APIs, services & distributed logic   │
+├──────────────────────┼──────────────────────────────────────┤
+│ Web Applications     │ Full-stack applications              │
+├──────────────────────┼──────────────────────────────────────┤
+│ Developer Tools      │ Automation & productivity tools      │
+├──────────────────────┼──────────────────────────────────────┤
+│ Self-hosted Systems  │ Servers, networking & infrastructure │
+└──────────────────────┴──────────────────────────────────────┘
+```
+
+> Most of my projects start with a simple question: **"Can I build this myself?"**
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vuxuanlam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vuxuanlam&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Vuxuanlam&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vuxuanlam&theme=tokyo-night&hide_border=true">
+
+</div>
+
+---
+
+## 🧠 Currently Exploring
+
+```yaml
+learning:
+  - Advanced .NET
+  - Backend Architecture
+  - Linux & Server Administration
+  - Networking
+  - Cloud & Self-hosting
+  - DevOps
+
+interests:
+  - Software Architecture
+  - Distributed Systems
+  - Automation
+  - Open Source
+  - Developer Tools
+```
+
+---
+
+## 🎯 Philosophy
+
+<div align="center">
+
+### Build → Break → Understand → Improve
+
+I don't believe in writing perfect code on the first try.
+
+I believe in **building things, breaking things, understanding why they broke, and making them better.**
+
+</div>
+
+---
+
+## 🌐 Find Me
+
+<p align="center">
+
+<a href="https://github.com/Vuxuanlam">
+<img src="https://img.shields.io/badge/GitHub-Vũ%20Xuân%20Lâm-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:vxlcontact143@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/iam.Iam143">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/lma_04_v/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-*Building, learning, and shipping.*
+### `while(alive) { learn(); build(); improve(); }`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Vuxuanlam&style=for-the-badge&color=blueviolet">
+
+<br><br>
+
+**Thanks for visiting.**
 
 </div>
