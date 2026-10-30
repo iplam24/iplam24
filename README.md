@@ -20,13 +20,13 @@ Vietnam · 🇻🇳
   <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white">
 </a>
 &nbsp;
-<a href="https://www.facebook.com/iam.Iam143">
+<!-- <a href="https://www.facebook.com/iam.Iam143">
   <img src="https://img.shields.io/badge/Facebook-111111?style=flat-square&logo=facebook&logoColor=white">
 </a>
 &nbsp;
 <a href="https://www.instagram.com/lma_04_v/">
   <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white">
-</a>
+</a> -->
 
 </div>
 
